@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Making Weather App with React-Native and OpenWeatherAPI",
+    "githubUrl": "https://github.com/JaeHyung94/rn-weather"
   }
 }
